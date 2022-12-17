@@ -1,0 +1,9 @@
+/*Julian Zarcone 000878972*/
+@media print {
+  * {
+    color: black !important;
+  }
+  img {
+    display: none !important;
+  }
+}
